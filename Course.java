@@ -1,6 +1,6 @@
 package Codesoft;
 // student course registration System
-//class course
+//class course 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
