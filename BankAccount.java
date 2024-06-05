@@ -1,5 +1,5 @@
 package Codesoft;
-// Bank account Management With ATM
+// Bank account Management With ATM Interface
 import java.util.*;
 //class Bank account
 public class BankAccount {
